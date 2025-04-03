@@ -347,9 +347,37 @@ hr {
     font-weight: 500;
     z-index: 10;
     font-size: 49px; }
+  .tile.tile--7 .tile-inner {
+    color: #000000;
+    background: #0d7684; 
+    font-size: 55px; }
+  .tile.tile--6 .tile-inner {
+    color: #ff00ff;
+    background: #fcfbfb; 
+    font-size: 70px; }
+  .tile.tile--5 .tile-inner {
+    color: #ff0000;
+    background: #fcfbfb; 
+    font-size: 70px; }
+  .tile.tile--4 .tile-inner {
+    color: #ffff00;
+    background: #fcfbfb; 
+    font-size: 70px; }
+  .tile.tile--3 .tile-inner {
+    color: #00ff00;
+    background: #fcfbfb; 
+    font-size: 70px; }
+  .tile.tile--2 .tile-inner {
+    color: #00ffff;
+    background: #fcfbfb; 
+    font-size: 70px; }
+  .tile.tile--1 .tile-inner {
+    color: #0000ff;
+    background: #fcfbfb; 
+    font-size: 70px; }
   .tile.tile-0 .tile-inner {
-    color: #83f5e0;
-    background: #fcfbfb; }
+    color: #0b0d8f;
+    background: #86edff; }
   .tile.tile-1 .tile-inner {
     color: #83f5e0;
     background: #9983f5; }
@@ -396,12 +424,33 @@ hr {
     color: #f7fffd;
     background: #130014; 
     font-size: 40px; }
+  .tile.tile-47 .tile-inner {
+    color: #213dd5;
+    background: #d8d8d8; }
+  .tile.tile-49 .tile-inner {
+    color: #d83732;
+    background: #d8d8d8; }
+  .tile.tile-50 .tile-inner {
+    color: #fcf148;
+    background: #d8d8d8; }
   .tile.tile-51 .tile-inner {
-    color: #f7fffd;
-    background: #0d7684; }
+    color: #ff8fe1;
+    background: #d8d8d8; }
+  .tile.tile-54 .tile-inner {
+    color: #5c3427;
+    background: #d8d8d8; }
+  .tile.tile-66 .tile-inner {
+    color: #ff6bd2;
+    background: #89662a; }
   .tile.tile-68 .tile-inner {
     color: #f7fffd;
     background: #840d26; }
+  .tile.tile-70 .tile-inner {
+    color: #ff7a2d;
+    background: #d8d8d8; }
+  .tile.tile-76 .tile-inner {
+    color: #257a26;
+    background: #d8d8d8; }
   .tile.tile-81 .tile-inner {
     color: #39fc33;
     background: #0a0f61; }
@@ -414,6 +463,9 @@ hr {
   .tile.tile-84 .tile-inner {
     color: #427e31;
     background: #b8c767; }
+  .tile.tile-92 .tile-inner {
+    color: #68140b;
+    background: #d8d8d8; }
   .tile.tile-170 .tile-inner {
     color: #3a0d84;
     background: #efe545;
